@@ -15,7 +15,6 @@ Features:
  * Mini-USB Connector
  * Overlay guide where you need it (both top and bottom)
  * D13 pin works for everything
- * RX pin biased
  * Mounting holes and power pads
  * All connections in the same place
 
@@ -66,9 +65,9 @@ licences referenced above.
 
 CREDITS
 -------
-The TwentyTen was designed by Marc Alexander (marc@freetronics.com)
-based on previous work by the Arduino team
-(www.arduino.cc/playground/Main/People) which includes:
+The TwentyTen was designed by Marc Alexander (marc@freetronics.com) and
+Jonathan Oxer (jon@freetronics.com) based on previous work by the
+Arduino team (www.arduino.cc/playground/Main/People) which includes:
 
  * Massimo Banzi
  * David Cuartielles
