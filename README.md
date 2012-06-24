@@ -1,12 +1,12 @@
-Freetronics Eleven
+Freetronics Eleven R3
 =============================
-Copyright 2010 Freetronics Pty Ltd  
+Copyright 2010-2012 Freetronics Pty Ltd  
 Freetronics site:  <www.freetronics.com>  
 Freetronics email: <info@freetronics.com>  
 
-The Eleven is a 100% Arduino Compatible Board, based on the existing
-Uno, but with improvements and updates for ease of use, cost
-and getting started.
+The Eleven is a 100% Arduino Compatible Board, based on the Arduino
+Uno reference design, but with improvements and updates for ease of
+use, cost and getting started.
 
 Features:
 
@@ -65,8 +65,8 @@ licences referenced above.
 
 CREDITS
 -------
-The TwentyTen was designed by Marc Alexander (marc@freetronics.com) and
-Jonathan Oxer (jon@freetronics.com) based on previous work by the
+The Eleven was designed by Marc Alexander (marc@freetronics.com) and
+Jonathan Oxer (jon@freetronics.com) inspired by previous work by the
 Arduino team (www.arduino.cc/playground/Main/People) which includes:
 
  * Massimo Banzi
