@@ -14709,7 +14709,7 @@ Standard 10-pin 0.1" header. Use with straight break away headers (SKU : PRT-001
 <pinref part="SJ1" gate="1" pin="2"/>
 </segment>
 </net>
-<net name="N$116" class="0">
+<net name="UGND" class="0">
 <segment>
 <wire x1="137.16" y1="121.92" x2="149.86" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="149.86" y1="121.92" x2="149.86" y2="109.22" width="0.1524" layer="91"/>
@@ -14734,6 +14734,41 @@ Standard 10-pin 0.1" header. Use with straight break away headers (SKU : PRT-001
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="104,1,40.64,129.54,IC4P,V+,5V,,,"/>
+<approved hash="104,1,40.64,114.3,IC4P,V-,GND,,,"/>
+<approved hash="104,1,180.34,144.78,IC2,AVCC,5V,,,"/>
+<approved hash="104,1,180.34,111.76,IC2,PAD,GND,,,"/>
+<approved hash="104,1,180.34,124.46,IC2,UVCC,USBVCC,,,"/>
+<approved hash="104,1,180.34,137.16,IC2,VCC,5V,,,"/>
+<approved hash="117,1,24.13,93.98,D12_MISO,,,,,"/>
+<approved hash="117,1,207.01,35.56,D12_MISO,,,,,"/>
+<approved hash="117,1,148.59,53.34,AREF,,,,,"/>
+<approved hash="117,1,207.01,86.36,A0,,,,,"/>
+<approved hash="117,1,207.01,83.82,A1,,,,,"/>
+<approved hash="117,1,207.01,81.28,A2,,,,,"/>
+<approved hash="117,1,207.01,78.74,A3,,,,,"/>
+<approved hash="117,1,24.13,88.9,RESET,,,,,"/>
+<approved hash="117,1,124.46,78.74,RESET,,,,,"/>
+<approved hash="117,1,205.74,68.58,D0_RX,,,,,"/>
+<approved hash="117,1,213.36,66.04,D1_TX,,,,,"/>
+<approved hash="117,1,207.01,63.5,D2,,,,,"/>
+<approved hash="117,1,207.01,60.96,D3,,,,,"/>
+<approved hash="117,1,207.01,58.42,D4,,,,,"/>
+<approved hash="117,1,207.01,55.88,D5,,,,,"/>
+<approved hash="117,1,207.01,53.34,D6,,,,,"/>
+<approved hash="117,1,207.01,50.8,D7,,,,,"/>
+<approved hash="117,1,207.01,45.72,D8,,,,,"/>
+<approved hash="117,1,207.01,43.18,D9,,,,,"/>
+<approved hash="117,1,207.01,73.66,A5_SCL,,,,,"/>
+<approved hash="117,1,207.01,76.2,A4_SDA,,,,,"/>
+<approved hash="117,1,12.7,132.08,VIN,,,,,"/>
+<approved hash="117,1,49.53,91.44,D11_MOSI,,,,,"/>
+<approved hash="117,1,207.01,38.1,D11_MOSI,,,,,"/>
+<approved hash="117,1,24.13,91.44,D13_SCK,,,,,"/>
+<approved hash="117,1,208.28,33.02,D13_SCK,,,,,"/>
+<approved hash="117,1,207.01,40.64,D10,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 </eagle>
