@@ -1,8 +1,8 @@
 Freetronics Eleven R3
 =============================
 Copyright 2010-2012 Freetronics Pty Ltd  
-Freetronics site:  <www.freetronics.com>  
-Freetronics email: <info@freetronics.com>  
+Freetronics site:  www.freetronics.com  
+Freetronics email: info@freetronics.com  
 
 The Eleven is a 100% Arduino Compatible Board, based on the Arduino
 Uno reference design, but with improvements and updates for ease of
@@ -21,10 +21,6 @@ Features:
 You can view more at our product page at:
 
   http://www.freetronics.com/eleven
-
-The "docs" folder within this repository includes a handy copy of the
-schematic in PDF format, images of the pcb, and our Getting Started
-guide that ships with each board.
 
 
 INSTALLATION
@@ -66,8 +62,8 @@ licences referenced above.
 CREDITS
 -------
 The Eleven was designed by Marc Alexander (marc@freetronics.com) and
-Jonathan Oxer (jon@freetronics.com) inspired by previous work by the
-Arduino team (www.arduino.cc/playground/Main/People) which includes:
+Jonathan Oxer (jon@freetronics.com) inspired by work by the Arduino
+team (www.arduino.cc/playground/Main/People) which includes:
 
  * Massimo Banzi
  * David Cuartielles
